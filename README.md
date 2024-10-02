@@ -1,0 +1,2 @@
+# netflix_ds_analysis
+ This project presents an in-depth analysis of a Netflix dataset, covering insights on content distribution, trends, and growth strategies. The analysis explores various aspects such as the most popular genres, actors, directors, and content type trends over the years. Visualizations using Matplotlib and Seaborn highlight key findings, helping identify patterns in movies and TV shows across different countries.
